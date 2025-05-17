@@ -1,85 +1,70 @@
-# Código de Conducta convenido para Contribuyentes
+# Código de Conducta convenido para Equipo WEBiados
 
-## Nuestro compromiso
+## Propósito
 
-Nosotros, como miembros, contribuyentes y administradores nos comprometemos a hacer de la participación en nuestra comunidad una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, minusvalía visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual.
-
-Nos comprometemos a actuar e interactuar de maneras que contribuyan a una comunidad abierta, acogedora, diversa, inclusiva y sana.
-
-## Nuestros estándares
-
-Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:
-
-* Demostrar empatía y amabilidad ante otras personas
-* Respeto a diferentes opiniones, puntos de vista y experiencias
-* Dar y aceptar adecuadamente retroalimentación constructiva
-* Aceptar la responsabilidad y disculparse ante quienes se vean afectados por nuestros errores, aprendiendo de la experiencia
-* Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general
-
-Ejemplos de comportamiento inaceptable:
-
-* El uso de lenguaje o imágenes sexualizadas, y aproximaciones o
-  atenciones sexuales de cualquier tipo
-* Comentarios despectivos (_trolling_), insultantes o derogatorios, y ataques personales o políticos
-* El acoso en público o privado
-* Publicar información privada de otras personas, tales como direcciones físicas o de correo
-  electrónico, sin su permiso explícito
-* Otras conductas que puedan ser razonablemente consideradas como inapropiadas en un
-  entorno profesional
-
-## Aplicación de las responsabilidades
-
-Los administradores de la comunidad son responsables de aclarar y hacer cumplir nuestros estándares de comportamiento aceptable y tomarán acciones apropiadas y correctivas de forma justa en respuesta a cualquier comportamiento que consideren inapropiado, amenazante, ofensivo o dañino.
-
-Los administradores de la comunidad tendrán el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, _commits_, código, ediciones de páginas de wiki, _issues_ y otras contribuciones que no se alineen con este Código de Conducta, y comunicarán las razones para sus decisiones de moderación cuando sea apropiado.
+Este documento es una guía sobre qué hacer en cada situación. Donde se declaran ciertos compromisos de cada integrante a lo largo del semestre, donde se vela por crear un entorno de respeto, responsabilidad y comprensión.
 
 ## Alcance
 
-Este código de conducta aplica tanto a espacios del proyecto como a espacios públicos donde un individuo esté en representación del proyecto o comunidad. Ejemplos de esto incluyen el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos en línea o no.
+-Reuniones internas del equipo, interacciones con la ayudante asignada, desarrollo de ideas, diseño y código, evaluación y distribución de tareas, también contempla situaciones excepcionales que puedan surgir durante el semestre, tanto planificadas como imprevistas.
 
-## Aplicación
+## Normas de Comunicación
 
-Instancias de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser reportadas a los administradores de la comunidad responsables del cumplimiento a través de [aaossa@ing.puc.cl](mailto:aaossa@ing.puc.cl). Todas las quejas serán evaluadas e investigadas de una manera puntual y justa.
+*Canal de comunicación: Telegram, Teams, Google Meet, entre otras
 
-Todos los administradores de la comunidad están obligados a respetar la privacidad y la seguridad de quienes reporten incidentes.
+*Reuniones de equipo: Como grupo tenemos una frecuencia de 1 o 2 vez por semana dependiendo del desarrollo logrado. Para reuniones con la ayudante mínimo 1 vez luego de cada entrega.
 
-## Guías de Aplicación
+*Cuándo trabajar en el proyecto: Esto consideramos como grupo que es algo muy arbritario ya que tenemos cursos dinstos, lo que implica tiempos distintos. Pero como compromiso se espera cumplir con avances semanales los cuales son transmitidos via mensaje de texto (whatsapp)
 
-Los administradores de la comunidad seguirán estas Guías de Impacto en la Comunidad para determinar las consecuencias de cualquier acción que juzguen como un incumplimiento de este Código de Conducta:
+*¿Qué haremos cuando...?
+-Emergencia personal que impida trabajar en el proyecto del curso por razones de fuerza mayor:
+1. Si YO estoy envuelto en un caso así, me comprometo a avisar lo antes posible
+2. YO indicaré cuando tiempo no estaré disponible para trabajar
+3. Mi equipo me cubrirá y se distribuye mi parte de la entrega
+4. Como equipo avisaremos al ayudante del grupo para su consideración 
+5. Si existe certificado médico, YO informaré al ayudante de bienestar y gestionar ante la DiPre (Si es que estoy en condiciones de realizarlo, por lo que mi equipo informará si es que YO no puedo)
 
-### 1. Corrección
+- Carga académica excesiva / Tope de evaluaciones:
+1. Si YO tengo una entrega de otro curso un día de entrega de este proyecto, me comprometo a cumplir con mi parte del trabajo
+2. YO dedicaré más de mi tiempo con anticipación para evitar atrasos
+3. SI yo no pude organizarme bien para la fecha de la entrega y cumplir con mi parte, me comprometo a avisar con tiempo de que no fui capaz de realizar el trabajo y avisar a mi equipo de esta situacion
+4. Como grupo, priorizaremos el equilibrio entre el bienestar personal y la carga académica.
 
-**Impacto en la Comunidad**: El uso de lenguaje inapropiado u otro comportamiento considerado no profesional o no acogedor en la comunidad.
+-Indisponibilidad prevista (viajes, vacaciones):
+1. Si YO tengo un viaje planificado durante lo que queda de semestre...
+2. Como grupo, redistribuiremos las tareas para cubrir temporalmente a la persona indisponible.
+3. La persona con el viaje deberá dejar adelantado su trabajo en la medida de lo posible.
+4. Si esta indisponibilidad afecta entregas, lo comunicaremos con antelación a la ayudante.
 
-**Consecuencia**: Un aviso escrito y privado por parte de los administradores de la comunidad, proporcionando claridad alrededor de la naturaleza de este incumplimiento y una explicación de por qué el comportamiento es inaceptable. Una disculpa pública podría ser solicitada.
+-Emergencia personal no planificada (Esta ya esta considerada en la primera situación)
 
-### 2. Aviso
+-Retraso en entrega
+1. Si como equipo no tenemos el entregable listo para la fecha, nos comunicaremos inmediatamente con el/la ayudante explicando la situación.
+2. Evaluaremos el uso de un cupón de atraso si aún nos quedan disponibles.
+3. Redistribuiremos tareas y tiempos para completar la entrega lo antes posible.
+4. Nos comprometemos a aprender de la experiencia y ajustar nuestra planificación a futuro.
 
-**Impacto en la Comunidad**: Un incumplimiento causado por un único incidente o por una cadena de acciones.
+-Persona no ubicable o contactable
+1. Si un miembro del grupo no responde por un tiempo razonable, intentaremos contactarlo por todos los medios posibles (WhatsApp, Discord, correo).
+2. Si no obtenemos respuesta, informaremos al equipo docente para dejar registro de la situación.
+3. El resto del grupo continuará el trabajo redistribuyendo tareas de ser necesario.
+4. Si la persona retoma el contacto, se conversará como equipo para reintegrarlo de manera justa.
 
-**Consecuencia**: Un aviso con consecuencias por comportamiento prolongado. No se interactúa con las personas involucradas, incluyendo interacción no solicitada con quienes se encuentran aplicando el Código de Conducta, por un periodo especificado de tiempo. Esto incluye evitar las interacciones en espacios de la comunidad, así como a través de canales externos como las redes sociales. Incumplir estos términos puede conducir a una expulsión temporal o permanente.
+-Diferencias de opinión
+1. Si como equipo no logramos llegar a un acuerdo, abriremos un espacio de conversación donde todos puedan argumentar sus ideas.
+2. Priorizaremos el consenso y la votación si es necesario.
+3. En caso de empate o conflicto mayor, se consultará al ayudante del grupo para orientación.
+4. Mantendremos siempre el respeto y la escucha activa.
 
-### 3. Expulsión temporal
+-Riesgo de no completar el proyecto
+1. Si creemos que podríamos no llegar con el proyecto a la última entrega, lo discutiremos inmediatamente como grupo.
+2. Reevaluaremos el alcance del proyecto para priorizar lo más relevante.
+3. Solicitaremos ayuda al/la ayudante para replantear estrategias y acotar el alcance si es necesario.
+3. Evaluaremos el uso de un cupón de atraso si corresponde.
 
-**Impacto en la Comunidad**: Una serie de incumplimientos de los estándares de la comunidad, incluyendo comportamiento inapropiado continuo.
+-Manteniendo la integridad académica
+1. Nos comprometemos a referenciar la ayuda de herramientas de IA.
+2. Toda contribución asistida por IA será documentada en el README.md, indicando en qué partes fue utilizada.
+3. Como grupo, priorizaremos siempre el aprendizaje y la honestidad.
 
-**Consecuencia**: Una expulsión temporal de cualquier forma de interacción o comunicación pública con la comunidad durante un intervalo de tiempo especificado. No se permite interactuar de manera pública o privada con las personas involucradas, incluyendo interacciones no solicitadas con quienes se encuentran aplicando el Código de Conducta, durante este periodo. Incumplir estos términos puede conducir a una expulsión permanente.
-
-### 4. Expulsión permanente
-
-**Impacto en la Comunidad**: Demostrar un patrón sistemático de incumplimientos de los estándares de la comunidad, incluyendo conductas inapropiadas prolongadas en el tiempo, acoso de individuos, o agresiones o menosprecio a grupos de individuos.
-
-**Consecuencia**: Una expulsión permanente de cualquier tipo de interacción pública con la comunidad del proyecto.
-
-## Atribución
-
-Este Código de Conducta es una adaptación del [Contributor Covenant][homepage], versión 2.0,
-disponible en https://www.contributor-covenant.org/es/version/2/0/code_of_conduct.html
-
-Las Guías de Impacto en la Comunidad están inspiradas en la [escalera de aplicación del código de conducta de Mozilla](https://github.com/mozilla/diversity).
-
-[homepage]: https://www.contributor-covenant.org
-
-Para respuestas a las preguntas frecuentes de este código de conducta, consulta las FAQ en
-https://www.contributor-covenant.org/faq. Hay traducciones disponibles en https://www.contributor-covenant.org/translations
 
